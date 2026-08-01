@@ -3,6 +3,7 @@ import { TypeAnimation } from "react-type-animation";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { motion } from "framer-motion";
 import resume from "../assets/resume/Mohan_Kumar_Resume.pdf";
+import mohanImage from "../assets/mohan.jpg";
 
 
 function Hero(){
@@ -112,10 +113,9 @@ transition={{duration:1}}
 
 >
 
-
-<img 
-src="/src/assets/mohan.jpg"
-alt="Mohan"
+<img
+  src={mohanImage}
+  alt="Mohan"
 />
 
 
