@@ -21,7 +21,7 @@ github:"#"
 
 
 {
-title:"🤖 SmartHire AI",
+title:"🤖 Recruit AI",
 
 description:
 "AI-powered recruitment platform that analyzes resumes, matches skills with job requirements and helps recruiters find suitable candidates.",
@@ -29,23 +29,12 @@ description:
 tech:
 "Java, Spring Boot, React, MySQL, Machine Learning",
 
-github:"#"
+github:"https://github.com/mohankumarks32-design"
 
 },
 
 
-{
-title:"☕ Java Developer Projects",
 
-description:
-"Collection of Java applications demonstrating OOP concepts, database connectivity and backend development.",
-
-tech:
-"Java, JDBC, SQL, Data Structures",
-
-github:"#"
-
-}
 
 ];
 
